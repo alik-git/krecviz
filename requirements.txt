@@ -1,0 +1,8 @@
+numpy
+scipy
+tqdm
+Pillow
+trimesh
+urdf_parser_py
+rerun-sdk
+krec @ git+https://github.com/kscalelabs/krec.git # temporary
